@@ -30,13 +30,6 @@ Install required libraries:
 pip install pandas numpy matplotlib seaborn geopandas scikit-learn statsmodels pmdarima scipy
 ```
 
-If you encounter issues with geopandas, you may need additional installations:
-
-```
-conda install -c conda-forge geopandas
-```
-
-
 ## Usage
 
 Open the notebooks using Jupyter Notebook or Jupyter Lab:
